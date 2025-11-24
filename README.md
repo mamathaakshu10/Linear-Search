@@ -1,5 +1,5 @@
 # Linear-Search
-C-Program
+(C-Program)
 #include<stdio.h>
 int main()
 {
